@@ -1,6 +1,6 @@
 # Countries of the World - A Next.js Project
 
-Welcome! This is a web application that lets you explore countries from around the world.
+This is a web application that lets you explore countries from around the world.
 
 This project is designed to be simple, clean, and fast. It fetches data from a public API and displays it in a user-friendly interface that you can search and browse through.
 
