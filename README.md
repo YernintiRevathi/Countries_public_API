@@ -103,3 +103,7 @@ For anyone learning, here are some of the key concepts demonstrated in this proj
 
 -   **Side Effects (`useEffect`):**
     *   `useEffect` is a React Hook for handling "side effects"—things that happen *after* the component has rendered. We used it to solve a tricky hydration error by only formatting the population number *after* the initial render, ensuring the server and client match perfectly.
+
+---
+
+with 💙 by Revathi
