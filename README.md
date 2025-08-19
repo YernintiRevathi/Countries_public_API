@@ -10,7 +10,7 @@ This project is designed to be simple, clean, and fast. It fetches data from a p
 
 A live version of this project is deployed and can be viewed here:
 
-[See demo](https://drive.google.com/file/d/1TmYGg8U_8d_p4jzEL7zG9NItzPotkGQA/view?usp=drive_link)
+[See demo](https://drive.google.com/file/d/1gjiSyG-ACFVFPUBAngZcS5oBBmReZmpJ/view?usp=sharing)
 
 
 ---
